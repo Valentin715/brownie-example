@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
 
-// SPDX-License-Identifier: MIT
+//SPDX-License-Identifier: MIT
 
 //import "./SafeMath.sol";
 import "@OpenZeppelin/contracts/math/SafeMath.sol";
